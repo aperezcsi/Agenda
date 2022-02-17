@@ -1,0 +1,12 @@
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\bin\Debug\net6.0\BlazingAgenda.Shared.deps.json
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\bin\Debug\net6.0\BlazingAgenda.Shared.dll
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\bin\Debug\net6.0\ref\BlazingAgenda.Shared.dll
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\bin\Debug\net6.0\BlazingAgenda.Shared.pdb
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\BlazingAgenda.Shared.csproj.AssemblyReference.cache
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\BlazingAgenda.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\BlazingAgenda.Shared.AssemblyInfoInputs.cache
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\BlazingAgenda.Shared.AssemblyInfo.cs
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\BlazingAgenda.Shared.csproj.CoreCompileInputs.cache
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\BlazingAgenda.Shared.dll
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\ref\BlazingAgenda.Shared.dll
+C:\Users\aperezc\Desktop\AgendaWeb\BlazingAgenda\BlazingAgenda\Shared\obj\Debug\net6.0\BlazingAgenda.Shared.pdb
