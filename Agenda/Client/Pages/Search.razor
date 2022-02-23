@@ -5,25 +5,46 @@
 
 <h3>Buscar Contacto</h3>
 
-<!--<EditForm Model="@_contact" OnValidSubmit="Get">
+<EditForm Model="@_contact" >
     <div class="form-group">
         <label>Nombre: </label>
-        <InputText @bind-Value="_contact._name" />
+        <InputText id="name" @bind-Value="name" />
+        <input type="submit" class="btn btn-success" value="Buscar Contacto" @onclick="(() => searchByName(name))" />
     </div>
-    <div class="form-group">
-        <input type="submit" class="btn btn-success" value="Buscar Contacto" />
-    </div>
-</EditForm>-->
+
+    <div class="alert alert-secondary mt-4">
+        <span class="oi oi-person me-2" aria-hidden="true"></span>
+    <strong>Información del contacto</strong><br><br>
+    <span class="text-nowrap">
+    <p>Nombre: @nameSearch</p>
+    <p>Teléfono: @landline</p>
+    <p>Celular: @cellphone</p>
+    </span>
+
+</div>
+</EditForm>
 
 @code {
-    /*[Parameter]
-    public string name { get; set; }
+
     private Contact _contact = new();
 
-    private async Task Get()
+    private List<Contact> _contacts;
+
+    private string name;
+
+    private string nameSearch;
+    private string landline;
+    private string cellphone;
+
+    private async Task searchByName(string name)
     {
-        _contact = await Task.Run(()=> ValuesController.Get)
-        await Http.GetAsync<Contact>("/api/Contact/", _contact);
-        Navigation.NavigateTo("/contacts");
-    }*/
+        await Http.GetAsync($"/api/Contact/{name}");
+        _contacts = await Http.GetFromJsonAsync<List<Contact>>("https://localhost:7040/api/Contact");
+        @foreach (var item in _contacts)
+        {
+            nameSearch = item._name;
+            landline = item._landline;
+            cellphone = item._cellphone;
+        }
+    }
 }

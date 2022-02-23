@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDjvgQ8eTtTT88TfJ6ozCbEgq+POIBHOTjTLZlwgLOoMmd8Tj4DPECWmFtYPqEePLUSR8qpWbCXPOHy6ZSRbrQ==",
+  "dgSpecHash": "82nEylMFiRcGxQpPAqoduoqJA6+U6kZkh1ODM15JYijfv2Ub4wO1JQHelISpFIbaxJIYh9c1BOYxEjCyfxYBWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj",
+  "projectFilePath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
     "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.2\\microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",

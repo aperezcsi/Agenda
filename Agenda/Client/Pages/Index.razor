@@ -59,7 +59,7 @@ else
     }
     private async Task Delete(string name)
     {
-        await Http.DeleteAsync($"/api/Contacts/{name}");
+        await Http.DeleteAsync($"/api/Contact/{name}");
         _contacts = await Http.GetFromJsonAsync<List<Contact>>("https://localhost:7040/api/Contact");
         StateHasChanged();
     }

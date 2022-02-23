@@ -47,7 +47,7 @@ namespace Agenda.Server.Controllers
         {
            _context.Contacts.Add(contact);
            _context.SaveChanges();
-            return Ok();
+            return Ok("Contacto Agregado satisfactoriamente");
         }
 
         [HttpPut("{name}")]

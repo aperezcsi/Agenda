@@ -555,11 +555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj",
       "projectName": "Agenda.Shared",
-      "projectPath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj",
+      "projectPath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj",
       "packagesPath": "C:\\Users\\aperezc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aperezc\\AppData\\Roaming\\NuGet\\NuGet.Config",

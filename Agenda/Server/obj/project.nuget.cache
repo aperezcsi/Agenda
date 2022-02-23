@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9CxUWhAwQSMbiQ9S1dXauDG9//EqHCHC7bK70R2pQrHvCvT4PDn07eZv22ApflBLkmsJgZzjmeR4epwbVN2lw==",
+  "dgSpecHash": "hOjepGrffjWGoS7Vo7nqhE9FmXf4znrsqoZ2vMdXCA8QMQy3y5rHTUDDH9ZVZ/QNev1YFYx7ZgbJr35VtUGT/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Server\\Agenda.Server.csproj",
+  "projectFilePath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Server\\Agenda.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\microsoft.aspnetcore.authorization.6.0.1.nupkg.sha512",
     "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.1\\microsoft.aspnetcore.components.6.0.1.nupkg.sha512",

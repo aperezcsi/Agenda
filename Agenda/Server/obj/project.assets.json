@@ -1323,11 +1323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Server\\Agenda.Server.csproj",
+      "projectUniqueName": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Server\\Agenda.Server.csproj",
       "projectName": "Agenda.Server",
-      "projectPath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Server\\Agenda.Server.csproj",
+      "projectPath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Server\\Agenda.Server.csproj",
       "packagesPath": "C:\\Users\\aperezc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Server\\obj\\",
+      "outputPath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aperezc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1345,11 +1345,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Client\\Agenda.Client.csproj": {
-              "projectPath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Client\\Agenda.Client.csproj"
+            "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\Agenda.Client.csproj": {
+              "projectPath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\Agenda.Client.csproj"
             },
-            "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj": {
-              "projectPath": "C:\\Users\\aperezc\\Desktop\\AgendaWeb\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj"
+            "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj": {
+              "projectPath": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Shared\\Agenda.Shared.csproj"
             }
           }
         }

@@ -12,16 +12,12 @@ namespace Agenda.Shared.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+
+        [Required(ErrorMessage = "El nombre no puede ser vacio")]
         public string _name { get; set; }
+        [Required(ErrorMessage = "El Fijo no puede ser vacio")]
         public string _landline { get; set; }
+        [Required(ErrorMessage = "El Celular no puede ser vacio")]
         public string _cellphone { get; set; }
-
-
-        /*public Contact(string name, string landline, string cellphone)
-        {
-            _name = name;
-            _landline = landline;
-            _cellphone = cellphone;
-        }*/
     }
 }

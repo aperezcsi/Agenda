@@ -11,45 +11,45 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Agenda.Client
 build_property.RootNamespace = Agenda.Client
-build_property.ProjectDir = C:\Users\aperezc\Desktop\AgendaWeb\Agenda\Agenda\Client\
+build_property.ProjectDir = C:\Users\aperezc\Documents\GitHub\Agenda\Agenda\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\aperezc\Desktop\AgendaWeb\Agenda\Agenda\Client
+build_property.MSBuildProjectDirectory = C:\Users\aperezc\Documents\GitHub\Agenda\Agenda\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/App.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/Pages/Create.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Pages/Create.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/Pages/Home.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/Pages/Index.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/Pages/Search.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Pages/Search.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/Shared/SurveyPrompt.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/_Imports.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/Shared/MainLayout.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-e6gq7ziteg
 
-[C:/Users/aperezc/Desktop/AgendaWeb/Agenda/Agenda/Client/Shared/NavMenu.razor]
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ylcz7o2jt1
