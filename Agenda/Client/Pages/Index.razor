@@ -7,7 +7,7 @@
 
 <h1>Lista de Contactos</h1>
 
-Contactos Disponibles
+Contactos Disponibles 
 
 @if (_contacts == null)
 {
@@ -36,10 +36,10 @@ else
                     <td>@contact._landline</td>
                     <td>@contact._cellphone</td>
                     <td>
-                        <button class="btn btn-info"
+                        <!--<button class="btn btn-info"
                                 @onclick="(() => Edit(contact._name))">
                             Edit
-                        </button>
+                        </button>-->
                         <button class="btn btn-danger"
                                 @onclick="(() => Delete(contact._name))">
                             Delete
@@ -53,6 +53,7 @@ else
 @code {
     
     private List<Contact> _contacts;
+    
     protected override async Task OnInitializedAsync()
     {
         _contacts = await Http.GetFromJsonAsync<List<Contact>>("https://localhost:7040/api/Contact");

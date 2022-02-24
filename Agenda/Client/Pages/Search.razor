@@ -8,7 +8,7 @@
 <EditForm Model="@_contact" >
     <div class="form-group">
         <label>Nombre: </label>
-        <InputText id="name" @bind-Value="name" />
+        <InputText @bind-Value="name" />
         <input type="submit" class="btn btn-success" value="Buscar Contacto" @onclick="(() => searchByName(name))" />
     </div>
 

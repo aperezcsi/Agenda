@@ -23,8 +23,9 @@ namespace Agenda.Server.Controllers
         }
 
         [HttpGet("{name}")]
-        public Contact GetContactByName(string name)
+        public Contact GetContactByName(string name) 
         {
+
             return _context.Contacts.SingleOrDefault(e => e._name == name);
         }
 

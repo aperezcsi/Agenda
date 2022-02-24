@@ -1,6 +1,7 @@
 ﻿@page "/"
 @using Agenda.Shared
 @inject HttpClient Http
+@inject NavigationManager Navigation
 
 <PageTitle>Agenda</PageTitle>
 
@@ -8,12 +9,27 @@
 
 <p>Aquí podrá registrar todos sus contactos.</p>
 
+<p>@result</p>
 <label>¿Que tamaño tendrá la Agenda?</label>
 <br><input type="text" @bind="size"/>
-<button class="btn btn-primary ms-2">Agregar</button>
+<button class="btn btn-primary ms-2" @onclick="(() => sizeDirectory())">Agregar</button>
 
 @code{
-    public int size;
+    public string size;
+    private string result;
 
+    private void sizeDirectory()
+    {
+        string msg = "";
+        if(int.Parse(size)<=0 || int.Parse(size) > 10)
+        {
+            msg = "Valor invalido: el tamaño debe ser mayor a 0 o menor a 10";
+            result = msg;
+        }
+        else
+        {
+            Navigation.NavigateTo("/contacts");
+        }
+    }
 }
 
