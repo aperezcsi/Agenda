@@ -15,10 +15,6 @@ Contactos Disponibles
 }
 else
 {
-    <div>
-      <button class="btn btn-success" style="float: right;" @onclick="Create">Añadir Contacto</button>
-    </div>
-
     <table class="table">
         <thead>
             <tr>
@@ -67,10 +63,6 @@ else
     private void Edit(string name)
     {
         Navigation.NavigateTo($"/contact/edit/{name}");
-    }
-    private void Create()
-    {
-        Navigation.NavigateTo("/agenda/create");
     }
 }
 

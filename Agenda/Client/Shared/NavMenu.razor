@@ -10,13 +10,23 @@
 <div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
     <nav class="flex-column">
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="contacts">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Contactos
+            <NavLink class="nav-link" href="agenda/create">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Agregar Contacto
             </NavLink>
         </div>
-         <div class="nav-item px-3">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="contacts">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Listar Contactos
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
             <NavLink class="nav-link" href="search">
-                <span class="oi oi-home" aria-hidden="true"></span> Buscar
+                <span class="oi oi-home" aria-hidden="true"></span> Buscar Contacto
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="">
+                <span class="oi oi-home" aria-hidden="true"></span> Existe Contacto
             </NavLink>
         </div>
     </nav>
