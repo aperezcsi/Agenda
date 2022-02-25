@@ -10,16 +10,16 @@
     <DataAnnotationsValidator />
     <ValidationSummary />
     <div class="form-group">
-        <label>Nombre: </label>
+        <label>Nombre: <label style="color:red">*</label></label>
         <InputText @bind-Value="_contact._name" />
-    </div>
+    </div><br>
     <div class="form-group">
-        <label>Teléfono: </label>
-        <InputText @bind-Value="_contact._landline"/>
-    </div>
+        <label>Teléfono: <label style="color:red">*</label></label>
+        <InputNumber @bind-Value="_contact._landline"/>
+    </div><br>
     <div class="form-group">
-        <label>Celular: </label>
-        <InputText @bind-Value="_contact._cellphone"/>
+        <label>Celular: <label style="color:red">*</label></label>
+        <InputNumber @bind-Value="_contact._cellphone"/>
     </div>
     <br><div class="form-group">
         <input type="submit" class="btn btn-success" value="Agregar Contacto" />

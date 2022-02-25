@@ -27,6 +27,20 @@ namespace Agenda.Server.Controllers
         {
 
             return _context.Contacts.SingleOrDefault(e => e._name == name);
+            
+        }
+
+        [HttpGet("isExist/{name}")]
+        public bool isExist(string name)
+        {
+            if(_context.Contacts.SingleOrDefault(e => e._name == name) != null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         [HttpDelete("{name}")]

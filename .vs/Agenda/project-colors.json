@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0fd535de-1038-41e6-b2f1-15337d889e8d": {
+      "ProjectGuid": "0fd535de-1038-41e6-b2f1-15337d889e8d",
+      "DisplayName": "Agenda.Client",
+      "ColorIndex": 0
+    },
+    "2fcc0836-852f-40af-ab1e-4f4ea3d02fed": {
+      "ProjectGuid": "2fcc0836-852f-40af-ab1e-4f4ea3d02fed",
+      "DisplayName": "Agenda.Shared",
+      "ColorIndex": 1
+    },
+    "58187430-e5ef-4ecc-9753-731e81b75797": {
+      "ProjectGuid": "58187430-e5ef-4ecc-9753-731e81b75797",
+      "DisplayName": "Agenda.Server",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
