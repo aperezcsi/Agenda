@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kRXl/L48En4ICEua0hLgjTsgPaXgrlJS5OEiZMo3u9A=",
+  "Hash": "08wAZSrX2aq7MEWjv2JmVYjmmBO2vYmstS/DPDmHIA0=",
   "Source": "Agenda.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -170,23 +170,6 @@
       "OriginalItemSpec": "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.1\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "Agenda.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.1\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "Agenda.Client",
       "SourceType": "Computed",
@@ -236,6 +219,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.1\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "Agenda.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\aperezc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.1\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -7123,6 +7123,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "Agenda.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Agenda.Client",
       "SourceType": "Discovered",
@@ -7223,23 +7240,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "Agenda.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\aperezc\\Documents\\GitHub\\Agenda\\Agenda\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

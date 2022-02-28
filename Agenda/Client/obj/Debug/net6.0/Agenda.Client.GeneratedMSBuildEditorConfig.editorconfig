@@ -26,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Pages/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/aperezc/Documents/GitHub/Agenda/Agenda/Client/Pages/Exist.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -57,6 +57,24 @@ namespace Agenda.Server.Controllers
             return Ok("El contacto fue eliminado satisfactoriamente");
         }
 
+        /*[HttpDelete("{contact}")]
+        public bool DeleteContact(Contact contact)
+        {
+            var resp = (Contact)dgvOrderLin.SelectedRows[0].DataBoundItem;
+
+            var del = _context.Contacts.SingleOrDefault(item => item._name == resp._name);
+
+            if (del != null)
+            {
+              
+                _context.Contacts.Remove(del);
+                _context.SaveChanges();
+                return true;
+            }
+
+            return false;
+        }*/
+
         [HttpPost]
         public IActionResult AddContact(Contact contact)
         {

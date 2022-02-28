@@ -201,15 +201,15 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "Agenda.Shared.dll": "sha256-eFKHIUzc9j7kKCcSf7emCSvABdu7M6ymzyUR37kE6ME=",
-      "Agenda.Client.dll": "sha256-mq0oRqtGNCfjShPkMGD25UpU5Huj8KIjDMSjglMNT+Q="
+      "Agenda.Shared.dll": "sha256-YJgRwRKMHhj6YX1WIEWWounFcnCnVHVEFJJCl40Gjhs=",
+      "Agenda.Client.dll": "sha256-MQsAJWek\/sMRYb5q+BfudRldMz2rVUCxYYRuzlJZYAU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Agenda.Shared.pdb": "sha256-Ve9O+62gHPq+LZvPDmPBYOgx\/wMUzVRjgCj0Na1bzbc=",
-      "Agenda.Client.pdb": "sha256-OU5v3iVSn\/B56uYOZTrHAghWqkcFy+yPoYxcd1eNxJk="
+      "Agenda.Shared.pdb": "sha256-UojVKAHCZW4Mfw2rRq9n04cAtdOrvUpcHG2pHN2BT8k=",
+      "Agenda.Client.pdb": "sha256-1zxLIe2uDbjB6js29bRzCzN+gz3oAnUjm6FEg4khHXo="
     },
     "runtime": {
       "dotnet.6.0.1.dqpmcyclfa.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",
